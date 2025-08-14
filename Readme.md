@@ -43,7 +43,7 @@ src/
 ## Capturas de pantalla
 
 | Pantalla en el  github pages|instalacion de app | Notificaciones |Pagina Principal app instalada |
-|--------------------|-----------------|-----------------|
+|--------------------|-----------------|-----------------|-----------------|
 | ![Pagina](./src/images/docs/appweb.jpg) | ![Instalar](./src/images/docs/instalar.jpg) | ![Notificaciones](./src/images/docs/alertanotificaciones.png) | ![Instalada](./src/images/docs/appinstalada.jpg) |
 
 ---
